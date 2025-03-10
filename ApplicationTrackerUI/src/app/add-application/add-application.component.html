@@ -1,0 +1,80 @@
+<div class="container-xl">
+  <div class="table-responsive">
+      <div class="table-wrapper">
+          <div class="table-title">
+              <div class="row">
+                  <div class="col-sm-6">
+                      <h4><b>New Application</b></h4>
+                  </div>
+                  <div class="col-sm-6">
+                      <a href="#" routerLink="/Home" class="btn btn-success back"><i
+                              class='fas fa-arrow-circle-left'></i>
+                          Back</a>
+                  </div>
+              </div>
+          </div>
+          <form #applicationForm="ngForm">
+              <div class="table-content">
+                  <div class="form-group p-10 row">
+                      <div class="col-sm-3">
+                          <label for="CompanyName" class="p-t-b-10">Company Name<span
+                                  class="requiredStar">*</span></label>
+                      </div>
+                      <div class="col-sm-9">
+                          <input type="text" class="form-control" id="CompanyName" required maxlength="255"
+                              [(ngModel)]="addApplicationForm.CompanyName" name="CompanyName" #CompanyName="ngModel">
+                          <div *ngIf="CompanyName.errors && isSubmitted" class="alert alert-danger validationError">
+                              <div [hidden]="!CompanyName.errors?.['required']">
+                                  Company Name is required
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="form-group p-10 row">
+                      <div class="col-sm-3">
+                          <label for="Position" class="p-t-b-10">Position<span class="requiredStar">*</span></label>
+                      </div>
+                      <div class="col-sm-9">
+                          <input type="text" class="form-control" id="Position" required maxlength="255"
+                              [(ngModel)]="addApplicationForm.Position" name="Position" #Position="ngModel">
+                          <div *ngIf="Position.errors && isSubmitted" class="alert alert-danger validationError">
+                              <div [hidden]="!Position.errors?.['required']">
+                                  Position is required
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="form-group p-10 row">
+                      <div class="col-sm-3">
+                          <label class="p-t-b-10">Status<span class="requiredStar">*</span></label>
+                      </div>
+                      <div class="col-sm-9">
+                          <input type="text" class="form-control" id="Status" required maxlength="255"
+                              [(ngModel)]="addApplicationForm.Status" name="Status" #Status="ngModel">
+                          <div *ngIf="Status.errors && isSubmitted" class="alert alert-danger validationError">
+                                <div [hidden]="!Status.errors?.['required']">
+                                  Status is required
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="form-group p-10 row">
+                      <div class="col-sm-3">
+                          <label class="p-t-b-10">Date Applied<span class="requiredStar">*</span></label>
+                      </div>
+                      <div class="col-sm-9">
+                        <input type="text" class="form-control" id="DateApplied" required maxlength="10"
+                              [(ngModel)]="addApplicationForm.DateApplied" name="DateApplied" #Status="ngModel">
+                      </div>
+                  </div>
+                  
+                  <div class="table-footer">
+                      <button class="btn btn-success" (click)="AddApplication(applicationForm.form.valid)">Submit</button>
+                    </div>
+              </div>
+          </form>
+      </div>
+  </div>
+</div>

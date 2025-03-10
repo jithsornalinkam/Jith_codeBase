@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{213A399F-6DEB-4CB9-BCDB-7ABEACE6CE38}|..\\ApplicationTracker.Test\\ApplicationTracker.Test.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker.test\\applicationtrackerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\middleware\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:middleware\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\repository\\repositorymanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:repository\\repositorymanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\controllers\\applicationtrackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:controllers\\applicationtrackercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\repository\\applicationtrackerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:repository\\applicationtrackerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|c:\\jith\\backup\\applicationtracker\\applicationtrackerapi\\applicationtracker\\contract\\iapplicationtrackerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD02A964-E17B-44C1-A0B9-BB942CE2467E}|ApplicationTracker.csproj|solutionrelative:contract\\iapplicationtrackerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationTrackerUnitTest.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker.Test\\ApplicationTrackerUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\ApplicationTracker.Test\\ApplicationTrackerUnitTest.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker.Test\\ApplicationTrackerUnitTest.cs",
+              "RelativeToolTip": "..\\ApplicationTracker.Test\\ApplicationTrackerUnitTest.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wCcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:17:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Middleware\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomExceptionHandler.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Middleware\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "Middleware\\CustomExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:07:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contract\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:45:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationTrackerController.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Controllers\\ApplicationTrackerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationTrackerController.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Controllers\\ApplicationTrackerController.cs",
+              "RelativeToolTip": "Controllers\\ApplicationTrackerController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:22:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryManager .cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\RepositoryManager .cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryManager .cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\RepositoryManager .cs",
+              "RelativeToolTip": "Repository\\RepositoryManager .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:13:10.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "Models\\Application.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Models\\Application.cs",
+              "RelativeToolTip": "Models\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:30:19.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T03:52:33.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationTrackeRepository.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\ApplicationTrackeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ApplicationTrackeRepository.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Repository\\ApplicationTrackeRepository.cs",
+              "RelativeToolTip": "Repository\\ApplicationTrackeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:05:30.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IApplicationTrackeRepository.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IApplicationTrackeRepository.cs",
+              "RelativeDocumentMoniker": "Contract\\IApplicationTrackeRepository.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IApplicationTrackeRepository.cs",
+              "RelativeToolTip": "Contract\\IApplicationTrackeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:03:02.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:49:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Jith\\backup\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTracker\\Contract\\IRepositoryManager.cs",
+              "RelativeToolTip": "Contract\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T01:26:29.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
